@@ -1,0 +1,74 @@
+[
+  {
+    "customName": "Study Hub",
+    "shortUrl": "https://shortit/study-hub",
+    "originalUrl": "https://www.studyhub.com/resources/past-questions",
+    "createdAt": "2025-10-18T09:30:00.000Z"
+  },
+  {
+    "customName": "News Daily",
+    "shortUrl": "https://shortit/news-daily",
+    "originalUrl": "https://www.newsdaily.com/articles/top-stories-today",
+    "createdAt": "2025-10-18T09:45:00.000Z"
+  },
+  {
+    "customName": "Tech Blog",
+    "shortUrl": "https://shortit/tech-blog",
+    "originalUrl": "https://techblog.io/posts/how-to-use-nodejs-with-mongodb",
+    "createdAt": "2025-10-18T10:00:00.000Z"
+  },
+  {
+    "customName": null,
+    "shortUrl": "https://shortit/a8d2k",
+    "originalUrl": "https://www.youtube.com/watch?v=abcd1234",
+    "createdAt": "2025-10-18T10:15:00.000Z"
+  },
+  {
+    "customName": "Osiotorore Foundation",
+    "shortUrl": "https://shortit/osiotorore-foundation",
+    "originalUrl": "https://www.osiotororefoundation.org/donate",
+    "createdAt": "2025-10-18T10:30:00.000Z"
+  },
+  {
+    "customName": null,
+    "shortUrl": "https://shortit/q9w4t",
+    "originalUrl": "https://federaluniversitylokoja.edu.ng/archaeology-department",
+    "createdAt": "2025-10-18T10:45:00.000Z"
+  },
+  {
+    "customName": "Archaeo Study",
+    "shortUrl": "https://shortit/archaeo-study",
+    "originalUrl": "https://archaeostudybuddy.vercel.app/",
+    "createdAt": "2025-10-18T11:00:00.000Z"
+  },
+  {
+    "customName": "Github Project",
+    "shortUrl": "https://shortit/github-project",
+    "originalUrl": "https://github.com/jonathan-archaeo/past-questions-app",
+    "createdAt": "2025-10-18T11:15:00.000Z"
+  },
+  {
+    "customName": null,
+    "shortUrl": "https://shortit/x3f9b",
+    "originalUrl": "https://docs.google.com/document/d/1abcXYZ123/edit",
+    "createdAt": "2025-10-18T11:30:00.000Z"
+  },
+  {
+    "customName": "Climate Project",
+    "shortUrl": "https://shortit/climate-project",
+    "originalUrl": "https://researchportal.edu/projects/climate-impact-on-heritage",
+    "createdAt": "2025-10-18T11:45:00.000Z"
+  },
+  {
+    "customName": "Portfolio",
+    "shortUrl": "https://shortit/portfolio",
+    "originalUrl": "https://jonathandev.vercel.app/",
+    "createdAt": "2025-10-18T12:00:00.000Z"
+  },
+  {
+    "customName": null,
+    "shortUrl": "https://shortit/z5r2n",
+    "originalUrl": "https://openai.com/blog/chatgpt-updates",
+    "createdAt": "2025-10-18T12:15:00.000Z"
+  }
+]
