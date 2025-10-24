@@ -18,7 +18,7 @@ out/ # For static site generation
 .env
 .env.local
 .env.*.local
-
+config.env
 # IDE and OS specific files
 .vscode/
 .idea/
